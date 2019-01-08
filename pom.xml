@@ -10,7 +10,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>ora.eclipse.jetty</groupId>
+            <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-server</artifactId>
             <version>9.4.14</version>
         </dependency>
